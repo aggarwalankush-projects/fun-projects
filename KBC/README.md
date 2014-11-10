@@ -1,2 +1,2 @@
-#####Eclipse:
-You can import project in Eclipse and run it.
+#####NetBeans:
+You can import project in NetBeans and run it.
