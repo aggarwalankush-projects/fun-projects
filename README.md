@@ -11,3 +11,6 @@ This project takes input a converted txt file of pcap file. It then analyze thes
 
 ####String Matching
 It includes string matching using three algorithms. Traditional Edit Distance, Edit Distance with Transposition and Approximate Substring match algorithm. It also compares the performance of first two. 
+
+####ShfitAND_KMP
+This project implements and compares the two popular string searching algorithm ShiftAND and KMP(Knuth–Morris–Pratt algorithm). The algorithms look for occurences of pattern in input file. 
