@@ -17,3 +17,6 @@ This project implements and compares the two popular string searching algorithm 
 
 #####DNSDelay
 This program can be used to find dns delay of the packets in milliseconds. 
+
+#####POSTagger
+Understand the functionality of OpneNLP PosTagger using PennTreeBank.
