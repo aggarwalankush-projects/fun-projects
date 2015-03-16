@@ -1,7 +1,7 @@
 fun-projects
 ============
 
-Some timepass/fun project repository
+Some timepass/fun project repository. Contains Projects implemented for fun and some for assignments.
 
 #####KBC
 Kaun Banega Crorepati (popularly known as KBC) is an Indian television game show based on the UK game show Who Wants to Be a Millionaire? Tried to simulate the game using java swings and mysql.
